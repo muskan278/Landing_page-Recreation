@@ -142,7 +142,10 @@ a:hover{
     margin-bottom: 20px;
 }
 
-
+.current-board , .ex-board , .advisory-board {
+      box-shadow: inset 0 0 20px #DF7985;
+    border-radius: 10px;
+}
 .heading{
     background:linear-gradient(to right,#DF7985,#615094);
     border-radius: 10px;
